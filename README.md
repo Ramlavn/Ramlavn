@@ -1,14 +1,14 @@
 ## Well, hello! 👋 I'm Ramlavan Arumugasamyi, pleased to make your acquaintance
-🔧 Mechanical Engineer | 🤖 AI/ML Enthusiast | 📊 Exploring the World of Data
+🔧 Mechanical Engineer | 🤖 AI/ML Enthusiast | Data Analyst | 📊 Exploring the World of Data
 
 #### I'm a Mechanical Engineer on a journey of discovery, delving into the fascinating realms of Artificial Intelligence, Machine Learning, and Data Analytics. While I'm not yet an expert, I'm eager to learn and grow in these exciting fields.
 
 <img align="right" width="370" height="280" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
-- 💻 Passionate about Machine Learning and Artificial Intelligence
+- 💻 Passionate about Machine Learning, Artificial Intelligence and Data Analytics
 - 🔭 Here's my [portfolio](https://ramlavn.github.io/Portfolio/)                                                 
-- 🌱 Currently Exploring: Machine Learning Algorithms
-- 👯 Looking to Collaborate On: Exciting ML/AI projects
+- 🌱 Currently Exploring: Machine Learning Algorithms and Data Analytics
+- 👯 Looking to Collaborate On: Exciting ML/AI and Data Analysis projects
 - 🤔 Seeking: Opportunities and guidance for placements in innovative startups
 - 💬 Ask Me About: Anything tech-related – I'm always up for a chat!
 - 😄 Pronouns: Innovator/Techie

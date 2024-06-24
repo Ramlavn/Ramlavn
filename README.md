@@ -14,7 +14,7 @@
 - 😄 Pronouns: Innovator/Techie
 - ⚡ Fun Fact: I once built a robot that can solve a Rubik's Cube!
 - 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/RMlavn) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ramlavan-arumugasamyi-13b046296/) [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/ramlavn/)
+<br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/iramlavan) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ramlavan-arumugasamyi-13b046296/) [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/iramlavan/)
 
 
 #### Feel free to reach out, whether you're a seasoned pro or just starting out like me. Let's learn and grow together in the vast world of AI, ML, and data analytics! 🚀

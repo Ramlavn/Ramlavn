@@ -1,5 +1,5 @@
 ## Well, hello! 👋 I'm Ramlavan Arumugasamyi, pleased to make your acquaintance
-🔧 Mechanical Engineer | 🤖 AI/ML Enthusiast | Data Analyst | 📊 Exploring the World of Data
+🔧 Mechanical Engineer | 🤖 AI/ML Enthusiast | Data Scientist | 📊 Exploring the World of Data
 
 #### I'm a Mechanical Engineer on a journey of discovery, delving into the fascinating realms of Artificial Intelligence, Machine Learning, and Data Analytics. While I'm not yet an expert, I'm eager to learn and grow in these exciting fields.
 

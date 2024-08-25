@@ -5,8 +5,7 @@
 
 <img align="right" width="370" height="280" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
 
-- 💻 Passionate about Machine Learning, Artificial Intelligence and Data Analytics
-- 🔭 Here's my [portfolio](https://ramlavn.github.io/Portfolio/)                                                 
+- 💻 Passionate about Machine Learning, Artificial Intelligence and Data Analytics                                            
 - 🌱 Currently Exploring: Machine Learning Algorithms and Data Analytics
 - 👯 Looking to Collaborate On: Exciting ML/AI and Data Analysis projects
 - 🤔 Seeking: Opportunities and guidance for placements in innovative startups
